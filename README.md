@@ -16,9 +16,8 @@
 </h1>
 
 - 👋 I’m @Akash Deshwani
-- 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking forward to work as a Data Scientist in future
+- 💞️  I’m currently working Speech Data Scientist 
 - 📫 I’m always ready to collaborate for a data science project
 
 
