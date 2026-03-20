@@ -17,7 +17,7 @@
 
 - 👋 I’m @Akash Deshwani
 - 🌱 I’m currently learning Data Science
-- 💞️  I’m currently working Speech Data Scientist 
+- 🌱  I’m currently working Speech Data Scientist 
 - 📫 I’m always ready to collaborate for a data science project
 
 
